@@ -1,4 +1,4 @@
-For this app you will need Python and requests installed
+For this app you will need to install Python and requests.
 
 pip install requests
 
